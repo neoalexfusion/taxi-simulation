@@ -2,6 +2,8 @@
 
 Welcome to the documentation for the Taxi Simulation built using Q-Learning, a type of reinforcement learning algorithm. This project simulates a taxi environment where the goal is to pick up and drop off passengers while learning the most efficient route.
 
+<img width="110" alt="Screenshot 2024-09-14 at 10 47 02" src="https://github.com/user-attachments/assets/b9dcca30-f33e-4ed1-bdc0-1cbf3ad987a3">
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
