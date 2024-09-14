@@ -120,6 +120,11 @@ for frame in frames:
     sleep(0.5)
 ```
 
+## Future Improvements
+- Implement more advanced reward strategies to improve learning.
+- Expand the grid environment for more challenging simulations.
+- Upgrade the model to use Deep Q-Learning (DQN) for better performance in larger environments.
+
 ## Conclusion
 Thank you for checking out this Taxi Simulation using Q-Learning. The project demonstrates how reinforcement learning can teach a simple agent to optimize its decisions over time. Feel free to explore the code, improve the learning algorithm, or expand the environment for more complex simulations!
 
