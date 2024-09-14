@@ -61,12 +61,6 @@ alpha = 0.1
 gamma = 0.6
 epsilon = 0.1
 ```
-## Hand Tracking with MediaPipe
-```bash
-mp_hands = mp.solutions.hands
-hands = mp_hands.Hands()
-mp_draw = mp.solutions.drawing_utils
-```
 ## Training the Taxi
 ```bash
 for episode in range(100000):
