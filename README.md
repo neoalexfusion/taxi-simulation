@@ -13,8 +13,9 @@ Welcome to the documentation for the Taxi Simulation built using Q-Learning, a t
    - [Q-Learning Algorithm](#q-learning-algorithm)
    - [Training the Taxi](#training-the-taxi)
    - [Evaluating the Model](#evaluating-the-model)
-   - [Visualizing the Journey](#visualizing-the--jourey)
-6. [Conclusion](#conclusion)
+   - [Visualizing the Journey](#visualizing-the--journey)
+7. [Future Improvements](#future-improvements)
+7. [Conclusion](#conclusion)
 
 ## Introduction
 This project is a taxi simulation where a taxi is trained using Q-Learning, a type of reinforcement learning. The goal of the simulation is to teach the taxi to navigate a grid, pick up passengers, and drop them off at designated locations efficiently.
